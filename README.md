@@ -1,6 +1,6 @@
 # Implementação de Tabela Hash para Estados Brasileiros
 
-Este é um projeto fictício de uma implementação simples de uma tabela hash para armazenar e gerenciar informações sobre os estados brasileiros e o Distrito Federal.
+Este é um projeto fictício de uma implementação simples de uma Tabela Hash para armazenar e gerenciar informações sobre os estados brasileiros e o Distrito Federal através do emplacamento de veículos, onde o ultímo número da placa representará seu respectivo estado.
 
 ## Descrição
 
